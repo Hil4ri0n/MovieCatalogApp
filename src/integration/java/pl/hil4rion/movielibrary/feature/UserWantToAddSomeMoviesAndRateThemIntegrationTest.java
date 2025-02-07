@@ -1,4 +1,4 @@
-package pl.szykor.movielibrary.feature;
+package pl.hil4rion.movielibrary.feature;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import org.junit.jupiter.api.Test;
@@ -6,10 +6,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.ResultActions;
-import pl.szykor.movielibrary.BaseIntegrationTest;
-import pl.szykor.movielibrary.domain.movie.MovieFacade;
-import pl.szykor.movielibrary.domain.movie.dto.MovieDto;
-import pl.szykor.movielibrary.infrastructure.loginandregister.controller.dto.LoginResultDto;
+import pl.hil4rion.movielibrary.BaseIntegrationTest;
+import pl.hil4rion.movielibrary.domain.movie.MovieFacade;
+import pl.hil4rion.movielibrary.domain.movie.dto.MovieDto;
+import pl.hil4rion.movielibrary.infrastructure.loginandregister.controller.dto.LoginResultDto;
 
 import java.util.List;
 import static org.assertj.core.api.Assertions.assertThat;

@@ -1,4 +1,4 @@
-package pl.szykor.movielibrary;
+package pl.hil4rion.movielibrary;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;

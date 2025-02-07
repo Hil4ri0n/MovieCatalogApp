@@ -1,4 +1,4 @@
-package pl.szykor.movielibrary.apivalidation;
+package pl.hil4rion.movielibrary.apivalidation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.http.HttpStatus;
@@ -6,8 +6,8 @@ import org.springframework.http.MediaType;
 import org.springframework.security.test.context.support.WithMockUser;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.ResultActions;
-import pl.szykor.movielibrary.BaseIntegrationTest;
-import pl.szykor.movielibrary.infrastructure.apivalidation.ApiValidationErrorResponse;
+import pl.hil4rion.movielibrary.BaseIntegrationTest;
+import pl.hil4rion.movielibrary.infrastructure.apivalidation.ApiValidationErrorResponse;
 
 import java.util.List;
 
