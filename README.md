@@ -30,7 +30,6 @@ Core Technologies:
 
 Testing Frameworks:  
 ![image](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) &nbsp;
-![image](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge) &nbsp;
 ![image](https://img.shields.io/badge/Testcontainers-9B489A?style=for-the-badge) &nbsp;
 
 ---
